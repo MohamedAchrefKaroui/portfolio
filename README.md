@@ -1,7 +1,12 @@
 # Data Science Portfolio
 
 Welcome to my Data Science Portfolio! This repository showcases my data science projects, demonstrating my skills and expertise in various areas of data science.
+---
+## About Me
 
+I am a passionate data scientist with a strong background in mathematics and programming. I have a deep interest in solving complex problems using data-driven approaches. My academic background includes a degree in Computer Science with a specialization in Machine Learning. I continuously strive to enhance my skills and stay updated with the latest advancements in the field of data science.
+
+---
 ## Table of Contents
 
 - [Project 1: Celebrity Classification using VGG16](#project-1-celebrity-classification-using-vgg16)
@@ -88,11 +93,7 @@ Throughout my projects, I have applied various data science skills, including:
 
 ---
 
-## About Me
 
-I am a passionate data scientist with a strong background in mathematics and programming. I have a deep interest in solving complex problems using data-driven approaches. My academic background includes a degree in Computer Science with a specialization in Machine Learning. I continuously strive to enhance my skills and stay updated with the latest advancements in the field of data science.
-
----
 
 ## Contact Information
 
